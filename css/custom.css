@@ -150,8 +150,7 @@
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #1b150e;
-    border-radius: 2em;
+    background-color: #f0ede4;
   }
   
   ::-webkit-scrollbar-corner {
